@@ -1,2 +1,3 @@
 テスト入力しています。
 ariaguma
+git pull したファイルです
