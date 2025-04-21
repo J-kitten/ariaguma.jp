@@ -1,2 +1,3 @@
 テスト入力しています。
 ariaguma
+Codespaces で読み込めるかな？
